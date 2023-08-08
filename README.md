@@ -1,5 +1,9 @@
 # AI-Perceiving-Surroundings-through-Machine-Learning
-In this project, I trained an AI to recognize its surroundings, with a focus on identifying escalators and checkout points. 
+In this project, I trained an AI to recognize its surroundings, with a focus on identifying escalators and checkout points.
+
+From this link, you can give it a try
+
+https://teachablemachine.withgoogle.com/models/1dkMeHq7p/
 
 
 ## "And here is an example of some checkout points."
